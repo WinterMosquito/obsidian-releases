@@ -43175,6 +43175,13 @@
     "description": "Real-time Claude Code token tracking inside Obsidian — sidebar with 5 time ranges, Cache Write/Read split, 7-day model chart, HTML dashboard and built-in glossary. No API key needed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "beolatn/TokenUsage"
   },
+    {
+    "id": "the-mind-map",
+    "name": "Obsidian The Mind Map",
+    "author": "WinterMosquito",
+    "description": "在 Obsidian 中创建和编辑专业思维导图，六种布局、附件拖入导入、内部链接、Markdown 导入导出。",
+    "repo": "WinterMosquito/the-mind-map"
+  },
   {
     "id": "conversum",
     "name": "conVERsum",
